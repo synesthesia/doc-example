@@ -1,0 +1,32 @@
+{
+  "name": "doc-example",
+  "version": "1.0.0",
+  "description": "An exampole of how to run a local Antora preview",
+  "private": true,
+  "main": "gulp",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/synesthesia/doc-example.git"
+  },
+  "keywords": [
+    "antora",
+    "docsascode"
+  ],
+  "author": "Julian Elve",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/synesthesia/doc-example/issues"
+  },
+  "homepage": "https://github.com/synesthesia/doc-example#readme",
+  "devDependencies": {
+    "@antora/cli": "3.1.1",
+    "@antora/lunr-extension": "^1.0.0-alpha.8",
+    "@antora/site-generator": "3.1.1",
+    "gulp": "^4.0.2",
+    "gulp-connect": "^5.7.0",
+    "js-yaml": "^3.14.0"
+  }
+}

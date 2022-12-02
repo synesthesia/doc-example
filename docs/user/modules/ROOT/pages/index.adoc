@@ -1,0 +1,5 @@
+= End user documentation for the application
+
+This area of the documentation includes some information on how to use the application.
+
+In a real documentation setup, this component might be included in one or more documentation websites external to this repository.

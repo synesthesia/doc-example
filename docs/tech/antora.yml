@@ -1,0 +1,5 @@
+name: exampletech
+title: Application Website technical documentation
+version: '1.0'
+nav:
+- modules/ROOT/nav.adoc

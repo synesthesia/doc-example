@@ -1,0 +1,2 @@
+* xref:exampletech:ROOT:index.adoc[Technical documentation]
+* xref:exampleuser:ROOT:index.adoc[End-user documentation]

@@ -1,0 +1,8 @@
+= Application documentation Local Preview Build
+
+This is a local  https://docs.antora.org/antora/latest/playbook/author-mode/[author mode] preview of the documentation.
+
+Please see:
+
+* xref:exampletech:ROOT:index.adoc[Technical documentation]
+* xref:exampleuser:ROOT:index.adoc[End-user documentation]

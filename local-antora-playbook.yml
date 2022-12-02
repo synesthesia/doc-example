@@ -1,0 +1,29 @@
+antora:
+  extensions:
+  - require: '@antora/lunr-extension'
+    enabled: true
+asciidoc: 
+  attributes: 
+    page-help-url: https://github.com/synesthesia/doc-example#readme
+ui: 
+  bundle:
+    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
+    snapshot: true
+#  supplemental_files: ./supplemental_ui
+site:
+  title: Local preview of application documentation
+  start_page: examplelocal::index.adoc 
+  url: http://localhost:5000
+content:
+  sources: 
+  - url: .
+    branches: HEAD
+    start_path: /docs/tech
+    
+  - url: .
+    branches: HEAD
+    start_path: /docs/user
+  
+  - url: .
+    branches: HEAD
+    start_path: /docs/local

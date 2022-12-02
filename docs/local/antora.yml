@@ -1,0 +1,5 @@
+name: examplelocal
+title: Application documentation local preview
+version: '1.0'
+nav:
+- modules/ROOT/nav.adoc
