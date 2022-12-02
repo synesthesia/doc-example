@@ -12,6 +12,8 @@ However when one is working on a specific code repository it can be frustrating 
 
 This repository gives a simple example of how to add the necessary Antora preview tooling to any code repository.
 
+For more background see [this blog post](https://www.synesthesia.co.uk/note/2022/12/02/example-of-adding-antora-local-author-preview/)
+
 ## Repository layout
 
 |Path or file|Commentary|
